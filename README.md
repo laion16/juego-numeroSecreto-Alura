@@ -8,7 +8,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 
 ### Prerequisites
 
-No es necesario alguna librerá o tecnología en especial, el sistema está desarrollado con tecnologías básicas como html, javascrip y css. 
+No es necesario alguna librerá o tecnología en especial, el sistema está desarrollado con tecnologías básicas como html, javascript y css. 
 
 ### Installing
 
