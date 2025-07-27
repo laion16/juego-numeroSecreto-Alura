@@ -26,7 +26,7 @@ Puede probar un [demo](https://laion16.github.io/juego-numeroSecreto-Alura/) del
 
 ## Versioning
 
-Se usará [SemVer](http://semver.org/) para el versionamiento. La versión actual puede verse en [tags on this repository](https://github.com/your/project/tags). 
+Se usará [SemVer](http://semver.org/) para el versionamiento. 
 
 ## Author
 
